@@ -1,8 +1,8 @@
 add(x,y);
-pass
+return
 sub(x,y);
-pass
+return
 mul(x,y);
-pass
+return
 div(x,y);
-pass
+return
